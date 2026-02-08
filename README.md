@@ -14,9 +14,6 @@ It demonstrates frontend development with React, backend APIs with Node.js & Exp
 ### Backend
 - Node.js
 - Express.js
-- In-memory data storage
-- Validation middleware
-- Environment variables with `.env`
 
 ### DevOps
 - Docker
@@ -52,7 +49,7 @@ WSL2 enabled (Windows users)
 ### Run using Docker Compose
 rom the project root directory: docker compose up --build
 
-3. Access the Application
+### ACCESS THE APPLICATON
 Frontend:
 http://localhost:3000
 
