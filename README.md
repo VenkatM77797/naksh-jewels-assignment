@@ -31,13 +31,15 @@ Frontend will run at:
 http://localhost:5173
 
 ### Backend SETUP
-cd backend
+``` bash cd backend
 npm install
 npm start
+```
 
 Backend will run at:
+``` bash
 http://localhost:5000
-
+```
 
 ### DOCKER SETUP
 Docker & Docker Compose are required
@@ -51,7 +53,11 @@ rom the project root directory: docker compose up --build
 
 ### ACCESS THE APPLICATON
 Frontend:
+``` bash
 http://localhost:3000
+```
 
 Backend API:
+``` bash
 http://localhost:5000/products
+``` 
