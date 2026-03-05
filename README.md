@@ -1,4 +1,4 @@
-# Naksh Jewels – ReactJS & Node.js Internship Assignment
+# Naksh Jewels - ReactJS & Node.js Internship Assignment
 
 This project is a mini e-commerce module built as part of the **Naksh Jewels ReactJS & Node.js Internship Assessment**.  
 It demonstrates frontend development with React, backend APIs with Node.js & Express, and containerization using Docker.
