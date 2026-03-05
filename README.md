@@ -28,11 +28,15 @@ npm install
 npm run dev
 
 Frontend will run at:
+``` bash
 http://localhost:5173
+```
 
 ### Backend SETUP
 ``` bash cd backend
 npm install
+```
+``` bash 
 npm start
 ```
 
